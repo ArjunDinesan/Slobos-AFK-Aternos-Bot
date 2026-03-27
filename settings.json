@@ -9,7 +9,7 @@
     "ip": "shummyiscomingforyou.aternos.me",
     "port": 42815,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
